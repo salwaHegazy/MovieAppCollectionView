@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+	<dict>
+		<key>Desc</key>
+		<string>During Christmas, a man comes face-to-face with his old high school crush</string>
+		<key>Image</key>
+		<string>movie1</string>
+		<key>Name</key>
+		<string>Just Friends</string>
+	</dict>
+    
+    <dict>
+        <key>Desc</key>
+        <string>an unsuspecting group of twenty-somethings were bombarded by a series of natural disasters and catastrophic events</string>
+        <key>Image</key>
+        <string>movie2</string>
+        <key>Name</key>
+        <string>Disaster Movie</string>
+    </dict>
+    
+    <dict>
+        <key>Desc</key>
+        <string>The heroic Spartan king Leonidas, armed with nothing but leather underwear and a cape</string>
+        <key>Image</key>
+        <string>movie3</string>
+        <key>Name</key>
+        <string>Meet the Spartans</string>
+    </dict>
+    
+    <dict>
+        <key>Desc</key>
+        <string>A wannabe dad mistakes a vertically challenged criminal on the lam as his newly adopted son</string>
+        <key>Image</key>
+        <string>movie4</string>
+        <key>Name</key>
+        <string>Littleman</string>
+    </dict>
+    
+    <dict>
+        <key>Desc</key>
+        <string>Two kids secretly take in stray dogs at a vacant hotel</string>
+        <key>Image</key>
+        <string>movie5</string>
+        <key>Name</key>
+        <string>Hotel for Dogs</string>
+    </dict>
+
+
+</array>
+</plist>
